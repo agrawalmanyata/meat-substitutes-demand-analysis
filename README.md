@@ -5,3 +5,17 @@ This project analyzes the U.S. meat substitutes category for Conagra Brands to u
 
 ## Work Performed
 The project involved data cleaning and preprocessing, exploratory data analysis, feature engineering, predictive modeling, pricing and elasticity analysis, assortment optimization, clustering analysis, and competitive benchmarking. Machine learning and statistical techniques were used to evaluate the impact of product attributes, pricing, and distribution on product sales and category performance.
+
+## Repository Contents
+
+- `DataProcessing_Assortment.ipynb`  
+  Contains data preprocessing, exploratory analysis, feature engineering, clustering, and assortment optimization analysis.
+
+- `Pricing_Regression.ipynb`  
+  Contains pricing analysis, elasticity modeling, regression analysis, and pricing strategy evaluation.
+
+- `Final Report.pdf`  
+  Detailed report covering methodology, analysis, findings, and business recommendations.
+
+- `Final Presentation.pptx`  
+  Executive-style presentation summarizing the project approach and insights.
